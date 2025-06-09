@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fffbe6;
+  text-align: center;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #d2691e;
+  margin-bottom: 30px;
+}
+
+.photos img {
+  width: 200px;
+  margin: 10px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.songs ul {
+  list-style: none;
+  padding: 0;
+}
+
+.songs li {
+  margin: 10px 0;
+}
+
+.songs a {
+  text-decoration: none;
+  color: #8b0000;
+  font-weight: bold;
+}
